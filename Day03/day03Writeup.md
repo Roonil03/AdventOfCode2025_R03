@@ -1,4 +1,4 @@
-# Day 2 Writeup
+# Day 3 Writeup
 ## Language Used: `Go`
 ### Part 1:
 This time we have to find the maximum two digit number that we can make preserving the order, so the obvious approach was trying to something with a suffix array of some kind. I settled for using a suffix maximum array, letting me figure out the 2 digit number easily by instantly looking up the second digit after the first digit and selecting the best numbers.
