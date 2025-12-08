@@ -1,4 +1,5 @@
-# Day 04:
+# Day 4:
+> Problem statement taken from [here](https://adventofcode.com/2025/day/4)
 ## Printing Department
 ### Part 1:
 You ride the escalator down to the printing department. They're clearly getting ready for Christmas; they have lots of large rolls of paper everywhere, and there's even a massive printer in the corner (to handle the really big print jobs).

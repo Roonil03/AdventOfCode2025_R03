@@ -1,4 +1,5 @@
-# Day 05
+# Day 5
+> Problem statement taken from [here](https://adventofcode.com/2025/day/5)
 ## Cafeteria
 ### Part 1:
 As the forklifts break through the wall, the Elves are delighted to discover that there was a cafeteria on the other side after all.

@@ -1,4 +1,5 @@
 # Day 8
+> Problem statement taken from [here](https://adventofcode.com/2025/day/8)
 ## Playground
 ### Part 1:
 Equipped with a new understanding of teleporter maintenance, you confidently step onto the repaired teleporter pad.

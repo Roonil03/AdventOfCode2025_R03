@@ -1,4 +1,5 @@
-# Day 03
+# Day 3
+> Problem statement taken from [here](https://adventofcode.com/2025/day/3)
 ## Lobby
 ### Part 1:
 You descend a short staircase, enter the surprisingly vast lobby, and are quickly cleared by the security checkpoint. When you get to the main elevators, however, you discover that each one has a red light above it: they're all offline.

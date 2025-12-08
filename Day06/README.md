@@ -1,4 +1,5 @@
 # Day 6
+> Problem statement taken from [here](https://adventofcode.com/2025/day/6)
 ## Trash Compactor
 ### Part 1:
 After helping the Elves in the kitchen, you were taking a break and helping them re-enact a movie scene when you over-enthusiastically jumped into the garbage chute!

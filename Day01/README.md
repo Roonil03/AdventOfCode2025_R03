@@ -1,4 +1,5 @@
 # Day 1
+> Problem statement taken from [here](https://adventofcode.com/2025/day/1)
 ## Secret Entrance
 ### Part 1:
 The Elves have good news and bad news.
